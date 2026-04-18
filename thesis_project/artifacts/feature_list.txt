@@ -1,0 +1,5 @@
+NUMERIC_FEATURES:
+Age, BMI, Daily_Steps_Avg, Sleep_Quality_Score, Stress_Cortisol_Level, NT_proBNP_pg_mL, Troponin_T_ng_mL, CRP_mg_L, Ejection_Fraction_Pct, Systolic_BP, Diastolic_BP, Resting_HR, CEA_Level, CYFRA_21_1, Tumor_Size_mm, Lymph_Nodes_Involved, HbA1c, Fasting_Blood_Glucose, LDL_Cholesterol, HDL_Cholesterol, Triglycerides, Urinary_ACR, eGFR, FEV1_FVC_Ratio, Pack_Years, Medication_Adherence_Rate, Comorbidity_Index, Distance_to_Clinic_km, CV_Risk, Metabolic_Risk, Tumor_Burden, Inflammation_Index, Resp_Risk, Kidney_Risk
+
+CATEGORICAL_FEATURES:
+Gender, Ethnicity, Socioeconomic_Index, Insurance_Type, Education_Level, Primary_Diagnosis, Histological_Type, TNM_Stage, Smoking_Status, Occupational_Exposure, Family_History_Type2, Retinopathy, Neuropathy, CKD_Stage
