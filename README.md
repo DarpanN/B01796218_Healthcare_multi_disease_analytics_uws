@@ -5,7 +5,8 @@
 📌 Project Overview
 
 This project addresses the "Regulatory Paradox" in healthcare AI by deploying a high-fidelity inference engine that predicts patient mortality risk with 98.8% AUC-ROC accuracy. The system integrates Gradient Boosting Machines (XGBoost & LightGBM) into a cloud-native dashboard, providing real-time clinical decision support (CDS) based on a 61-feature clinical vector.
-🚀 Key Features
+
+## 🚀 Key Features ##
 
     Predictive Analytics: Dual-model ensemble (XGBoost/LightGBM) optimized via 5-Fold Stratified Cross-Validation.
 
