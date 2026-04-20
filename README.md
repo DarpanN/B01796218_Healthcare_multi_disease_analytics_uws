@@ -2,7 +2,7 @@
 ## MSc Dissertation Project - University of the West of Scotland (UWS) ##
 
 ## Project Title:Architecting AI-Driven Cloud-IOT Ecosystems for Global Healthcare: A Multi Disease Predictive Analytics Approach to Clinical Decision Support and Strategic Management. ##
-📌 Project Overview
+## 📌 Project Overview ##
 
 This project addresses the "Regulatory Paradox" in healthcare AI by deploying a high-fidelity inference engine that predicts patient mortality risk with 98.8% AUC-ROC accuracy. The system integrates Gradient Boosting Machines (XGBoost & LightGBM) into a cloud-native dashboard, providing real-time clinical decision support (CDS) based on a 61-feature clinical vector.
 
